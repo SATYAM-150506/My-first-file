@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+this line is in merge_branch
+
+=======
+hello this line is commited in master
+>>>>>>> master
